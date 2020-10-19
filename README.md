@@ -5,6 +5,8 @@ __Note: My portfolio is not complete, I'm still working on it__
 ### Projects
 #### Machine learning
 - Food Scanner - nutrition prediction
+#### Eploratory Data Analysis
+- New York Airbnb Analysis
 #### Natural Language Processing
 - IMDB dataset (Sentiment analysis) (soon)
 - 3-Way Sentiment Analysis for Tweets (soon)
