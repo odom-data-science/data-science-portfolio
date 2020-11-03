@@ -8,6 +8,7 @@ __Note: My portfolio is not complete, I'm still working on it__
 - Fraud detection
 #### ML Micro Projects
 - Support Vector Machine Classification - Iris dataset
+- Logistic Regression - Click prediction
 #### Eploratory Data Analysis
 - New York Airbnb Analysis
 #### Natural Language Processing
