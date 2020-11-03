@@ -6,6 +6,8 @@ __Note: My portfolio is not complete, I'm still working on it__
 #### Machine learning
 - Food Scanner - nutrition prediction
 - Fraud detection
+##### ML Micro Projects
+- Support Vector Machine Classification - Iris dataset
 #### Eploratory Data Analysis
 - New York Airbnb Analysis
 #### Natural Language Processing
